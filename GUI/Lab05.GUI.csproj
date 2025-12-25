@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3E9C0FD4-10A3-4E4F-B534-190EA6BB5374}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Logger.cs" />
+    <Compile Include="frmaddstudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaddstudent.Designer.cs">
+      <DependentUpon>frmaddstudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmfaculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmfaculty.Designer.cs">
+      <DependentUpon>frmfaculty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmmajor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmajor.Designer.cs">
+      <DependentUpon>frmmajor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQLSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQLSV.Designer.cs">
+      <DependentUpon>FrmQLSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmregistermajor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmregistermajor.Designer.cs">
+      <DependentUpon>frmregistermajor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmreport.Designer.cs">
+      <DependentUpon>frmreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmsearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsearch.Designer.cs">
+      <DependentUpon>frmsearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmQLSV.resx">
+      <DependentUpon>FrmQLSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmregistermajor.resx">
+      <DependentUpon>frmregistermajor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsearch.resx">
+      <DependentUpon>frmsearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lab05.BUS\Lab05.BUS.csproj">
+      <Project>{ba894fab-7d23-4875-b875-e4c41367aa5d}</Project>
+      <Name>Lab05.BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lab05.DAL\Lab05.DAL.csproj">
+      <Project>{9b46c5ad-14d2-4385-9c1a-6f8837192ad9}</Project>
+      <Name>Lab05.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

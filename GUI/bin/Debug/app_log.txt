@@ -1,0 +1,411 @@
+2025-12-23 23:30:33.663 [Thread:1] FrmQLSV.FrmQLSV_Load start
+2025-12-23 23:30:33.674 [Thread:1] FrmQLSV.LoadStudentsAsync start page=1 pageSize=100
+2025-12-23 23:51:42.976 [Thread:1] FrmQLSV.FrmQLSV_Load start
+2025-12-23 23:51:43.052 [Thread:1] FrmQLSV.LoadStudentsAsync start page=1 pageSize=100
+2025-12-23 23:51:44.434 [Thread:1] FrmQLSV.LoadStudentsAsync end loaded=0
+2025-12-23 23:51:44.434 [Thread:1] FrmQLSV.FrmQLSV_Load end
+2025-12-23 23:51:44.985 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-23 23:51:45.089 [Thread:1] frmaddstudent.Form1_Load loaded students=0
+2025-12-23 23:51:45.089 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-23 23:51:45.726 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-23 23:51:45.727 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-23 23:51:45.728 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-23 23:51:45.728 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-23 23:51:45.774 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-23 23:51:45.774 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-23 23:51:45.775 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-23 23:51:45.775 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-23 23:51:45.776 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-23 23:51:45.776 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-23 23:51:45.776 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-23 23:51:45.777 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-23 23:51:46.725 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-23 23:51:46.732 [Thread:1] frmfaculty.LoadDataAsync end loaded=1
+2025-12-23 23:51:48.155 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-23 23:51:48.156 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-23 23:51:48.156 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-23 23:51:48.156 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-23 23:51:48.159 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-23 23:51:48.160 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-23 23:51:48.160 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-23 23:51:48.160 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-23 23:51:48.161 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-23 23:51:48.161 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-23 23:51:48.161 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-23 23:51:48.162 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-23 23:51:48.457 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-23 23:51:48.467 [Thread:1] frmaddstudent.Form1_Load loaded students=0
+2025-12-23 23:51:48.468 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-23 23:53:36.508 [Thread:1] FrmQLSV.FrmQLSV_Load start
+2025-12-23 23:53:36.575 [Thread:1] FrmQLSV.LoadStudentsAsync start page=1 pageSize=100
+2025-12-23 23:53:37.874 [Thread:1] FrmQLSV.LoadStudentsAsync end loaded=0
+2025-12-23 23:53:37.874 [Thread:1] FrmQLSV.FrmQLSV_Load end
+2025-12-24 00:02:35.050 [Thread:1] FrmQLSV.FrmQLSV_Load start
+2025-12-24 00:02:35.147 [Thread:1] FrmQLSV.LoadStudentsAsync start page=1 pageSize=100
+2025-12-24 00:02:36.457 [Thread:1] FrmQLSV.LoadStudentsAsync end loaded=0
+2025-12-24 00:02:36.457 [Thread:1] FrmQLSV.FrmQLSV_Load end
+2025-12-24 00:02:39.416 [Thread:1] frmreport.Frmreport_Load start
+2025-12-24 00:02:39.448 [Thread:1] frmreport.Frmreport_Load end loaded=0
+2025-12-24 00:02:46.694 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-24 00:02:46.699 [Thread:1] frmfaculty.LoadDataAsync end loaded=1
+2025-12-24 00:02:48.022 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:02:48.023 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:02:48.023 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:02:48.023 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:02:48.072 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:02:48.073 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:02:48.073 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:02:48.074 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:02:48.074 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:02:48.074 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:02:48.075 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:02:48.075 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:02:48.570 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-24 00:02:48.593 [Thread:1] frmaddstudent.Form1_Load loaded students=0
+2025-12-24 00:02:48.593 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-24 00:02:51.743 [Thread:1] frmaddstudent.chkChuaDK_CheckedChanged start checked=True
+2025-12-24 00:02:51.747 [Thread:1] frmaddstudent.chkChuaDK_CheckedChanged end loaded=0
+2025-12-24 00:02:52.053 [Thread:1] frmaddstudent.chkChuaDK_CheckedChanged start checked=False
+2025-12-24 00:02:52.056 [Thread:1] frmaddstudent.chkChuaDK_CheckedChanged end loaded=0
+2025-12-24 00:02:52.825 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:02:52.829 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:02:52.830 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:02:52.830 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:02:52.834 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:02:52.834 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:02:52.835 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:02:52.835 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:02:52.835 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:02:52.835 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:02:52.836 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:02:52.836 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:02:55.726 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-24 00:02:55.735 [Thread:1] frmaddstudent.Form1_Load loaded students=0
+2025-12-24 00:02:55.736 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-24 00:02:56.468 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:02:56.469 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:02:56.469 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:02:56.469 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:02:56.472 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:02:56.473 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:02:56.473 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:02:56.473 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:02:56.474 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:02:56.474 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:02:56.475 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:02:56.475 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:02:58.638 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-24 00:02:58.642 [Thread:1] frmfaculty.LoadDataAsync end loaded=1
+2025-12-24 00:03:02.153 [Thread:1] frmreport.Frmreport_Load start
+2025-12-24 00:03:02.155 [Thread:1] frmreport.Frmreport_Load end loaded=0
+2025-12-24 00:03:04.569 [Thread:1] frmreport.BtnExport_Click start
+2025-12-24 00:04:34.933 [Thread:1] FrmQLSV.FrmQLSV_Load start
+2025-12-24 00:04:34.995 [Thread:1] FrmQLSV.LoadStudentsAsync start page=1 pageSize=100
+2025-12-24 00:04:36.256 [Thread:1] FrmQLSV.LoadStudentsAsync end loaded=0
+2025-12-24 00:04:36.256 [Thread:1] FrmQLSV.FrmQLSV_Load end
+2025-12-24 00:04:36.404 [Thread:1] frmreport.Frmreport_Load start
+2025-12-24 00:04:36.435 [Thread:1] frmreport.Frmreport_Load end loaded=0
+2025-12-24 00:04:36.882 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-24 00:04:36.887 [Thread:1] frmfaculty.LoadDataAsync end loaded=1
+2025-12-24 00:04:37.655 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:04:37.655 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:04:37.656 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:04:37.656 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:04:37.686 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:04:37.686 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:04:37.687 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:04:37.687 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:04:37.687 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:04:37.687 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:04:37.688 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:04:37.688 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:04:38.067 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-24 00:04:38.079 [Thread:1] frmaddstudent.Form1_Load loaded students=0
+2025-12-24 00:04:38.080 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-24 00:04:58.255 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-24 00:04:58.261 [Thread:1] frmfaculty.LoadDataAsync end loaded=1
+2025-12-24 00:04:59.239 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-24 00:04:59.261 [Thread:1] frmaddstudent.Form1_Load loaded students=0
+2025-12-24 00:04:59.261 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-24 00:05:00.146 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-24 00:05:00.151 [Thread:1] frmfaculty.LoadDataAsync end loaded=1
+2025-12-24 00:05:08.830 [Thread:1] frmfaculty.btnAddUpdate_Click start id=1
+2025-12-24 00:05:08.937 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-24 00:05:08.940 [Thread:1] frmfaculty.LoadDataAsync end loaded=1
+2025-12-24 00:05:10.125 [Thread:1] frmfaculty.btnAddUpdate_Click end id=
+2025-12-24 00:05:11.053 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-24 00:05:11.076 [Thread:1] frmaddstudent.Form1_Load loaded students=0
+2025-12-24 00:05:11.076 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-24 00:07:34.282 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-24 00:07:34.305 [Thread:1] frmaddstudent.Form1_Load loaded students=0
+2025-12-24 00:07:34.305 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-24 00:09:10.117 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:09:10.118 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:09:10.119 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:09:10.119 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:09:10.136 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:09:10.136 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:09:10.137 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:09:10.137 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:09:10.137 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:09:10.138 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:09:10.138 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=0
+2025-12-24 00:09:10.138 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:09:11.411 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-24 00:09:11.433 [Thread:1] frmaddstudent.Form1_Load loaded students=0
+2025-12-24 00:09:11.433 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-24 00:09:36.967 [Thread:1] frmaddstudent.btnAddUpdate_Click start id=2380602095
+2025-12-24 00:09:37.057 [Thread:1] frmaddstudent.btnAddUpdate_Click end id=2380602095
+2025-12-24 00:09:53.939 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:09:53.940 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:09:53.940 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:09:53.941 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:09:53.957 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-24 00:09:53.958 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:09:53.959 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-24 00:09:53.959 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:09:53.960 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-24 00:09:53.960 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:09:53.960 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-24 00:09:53.961 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:09:56.975 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:09:56.975 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:09:56.978 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:56.978 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:57.625 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:09:57.626 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:09:57.628 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:57.629 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:58.010 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:09:58.011 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:09:58.013 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:58.014 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:58.304 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:09:58.305 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:09:58.307 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:58.308 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:58.921 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:09:58.922 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:09:58.924 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:58.925 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:59.073 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:09:59.073 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:09:59.075 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:59.076 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:59.239 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:09:59.239 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:09:59.241 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:59.242 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:59.424 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:09:59.424 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:09:59.426 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:59.427 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:59.758 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:09:59.758 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:09:59.760 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:09:59.761 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:00.040 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:10:00.041 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:10:00.044 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:00.044 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:00.791 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:10:00.791 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:10:00.793 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:00.794 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:00.960 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:10:00.960 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:10:00.962 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:00.963 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:01.248 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:10:01.248 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:10:01.253 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:01.253 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:01.628 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:10:01.628 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:10:01.632 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:01.633 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:28.823 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:10:28.824 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:10:28.824 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:10:28.824 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:10:28.831 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-24 00:10:28.831 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:10:28.832 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-24 00:10:28.832 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:10:28.833 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-24 00:10:28.833 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:10:28.851 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-24 00:10:28.852 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:10:29.996 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:10:29.997 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:10:30.001 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:30.002 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:30.551 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:10:30.552 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:10:30.556 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:30.573 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:10:31.685 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-24 00:10:31.707 [Thread:1] frmaddstudent.Form1_Load loaded students=1
+2025-12-24 00:10:31.708 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-24 00:10:48.765 [Thread:1] frmaddstudent.btnAddUpdate_Click start id=2
+2025-12-24 00:10:48.777 [Thread:1] frmaddstudent.btnAddUpdate_Click end id=2
+2025-12-24 00:10:50.402 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-24 00:10:50.407 [Thread:1] frmfaculty.LoadDataAsync end loaded=1
+2025-12-24 00:10:52.593 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:10:52.594 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:10:52.594 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:10:52.594 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:10:52.600 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=2
+2025-12-24 00:10:52.600 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:10:52.601 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=2
+2025-12-24 00:10:52.601 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:10:52.602 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=2
+2025-12-24 00:10:52.602 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:10:52.604 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=2
+2025-12-24 00:10:52.604 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:11:47.377 [Thread:1] frmreport.Frmreport_Load start
+2025-12-24 00:11:47.384 [Thread:1] frmreport.Frmreport_Load end loaded=2
+2025-12-24 00:11:51.122 [Thread:1] frmreport.Frmreport_Load start
+2025-12-24 00:11:51.125 [Thread:1] frmreport.Frmreport_Load end loaded=2
+2025-12-24 00:11:52.098 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-24 00:11:52.102 [Thread:1] frmfaculty.LoadDataAsync end loaded=1
+2025-12-24 00:11:53.185 [Thread:1] frmreport.Frmreport_Load start
+2025-12-24 00:11:53.188 [Thread:1] frmreport.Frmreport_Load end loaded=2
+2025-12-24 00:11:57.201 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-24 00:11:57.205 [Thread:1] frmfaculty.LoadDataAsync end loaded=1
+2025-12-24 00:11:58.059 [Thread:1] frmreport.Frmreport_Load start
+2025-12-24 00:11:58.062 [Thread:1] frmreport.Frmreport_Load end loaded=2
+2025-12-24 00:12:00.817 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-24 00:12:00.839 [Thread:1] frmaddstudent.Form1_Load loaded students=2
+2025-12-24 00:12:00.839 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-24 00:12:03.230 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:12:03.230 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:12:03.231 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:12:03.231 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:12:03.237 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=2
+2025-12-24 00:12:03.237 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:12:03.238 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=2
+2025-12-24 00:12:03.238 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:12:03.239 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=2
+2025-12-24 00:12:03.240 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:12:03.241 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=2
+2025-12-24 00:12:03.241 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:12:17.916 [Thread:1] frmregistermajor.btnRegister_Click start
+2025-12-24 00:12:17.917 [Thread:1] frmregistermajor.btnRegister_Click start
+2025-12-24 00:12:46.388 [Thread:1] frmregistermajor.btnRegister_Click updated=1
+2025-12-24 00:12:46.388 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:12:46.397 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-24 00:12:46.397 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:12:48.543 [Thread:1] frmregistermajor.btnRegister_Click updated=1
+2025-12-24 00:12:48.543 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-24 00:12:48.549 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-24 00:12:48.549 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-24 00:12:50.022 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:12:50.023 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:12:50.025 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:12:50.026 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:12:50.945 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:12:50.946 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:12:50.951 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=2
+2025-12-24 00:12:50.951 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=2
+2025-12-24 00:12:51.696 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:12:51.696 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:12:51.698 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:12:51.699 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:12:52.256 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:12:52.256 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=False
+2025-12-24 00:12:52.259 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=2
+2025-12-24 00:12:52.260 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=2
+2025-12-24 00:12:53.349 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:12:53.349 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged start checked=True
+2025-12-24 00:12:53.351 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:12:53.352 [Thread:1] frmregistermajor.chkUnregisterMajor_CheckedChanged end loaded=1
+2025-12-24 00:13:10.055 [Thread:1] frmsearch.btnSearch_Click start
+2025-12-24 00:13:10.095 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:10.096 [Thread:1] frmsearch.btnSearch_Click end results=2
+2025-12-24 00:13:50.053 [Thread:1] frmsearch.btnSearch_Click start
+2025-12-24 00:13:50.070 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:50.071 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:50.071 [Thread:1] frmsearch.btnSearch_Click end results=2
+2025-12-24 00:13:50.458 [Thread:1] frmsearch.btnSearch_Click start
+2025-12-24 00:13:50.460 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:50.461 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:50.462 [Thread:1] frmsearch.btnSearch_Click end results=2
+2025-12-24 00:13:50.602 [Thread:1] frmsearch.btnSearch_Click start
+2025-12-24 00:13:50.604 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:50.605 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:50.605 [Thread:1] frmsearch.btnSearch_Click end results=2
+2025-12-24 00:13:50.736 [Thread:1] frmsearch.btnSearch_Click start
+2025-12-24 00:13:50.739 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:50.740 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:50.740 [Thread:1] frmsearch.btnSearch_Click end results=2
+2025-12-24 00:13:51.709 [Thread:1] frmsearch.btnSearch_Click start
+2025-12-24 00:13:51.712 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:51.713 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:51.713 [Thread:1] frmsearch.btnSearch_Click end results=2
+2025-12-24 00:13:51.845 [Thread:1] frmsearch.btnSearch_Click start
+2025-12-24 00:13:51.848 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:51.849 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:51.850 [Thread:1] frmsearch.btnSearch_Click end results=2
+2025-12-24 00:13:51.973 [Thread:1] frmsearch.btnSearch_Click start
+2025-12-24 00:13:51.975 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:51.976 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:13:51.976 [Thread:1] frmsearch.btnSearch_Click end results=2
+2025-12-24 00:14:00.050 [Thread:1] frmsearch.btnSearch_Click start
+2025-12-24 00:14:00.057 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:14:00.058 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:14:00.059 [Thread:1] frmsearch.btnSearch_Click end results=1
+2025-12-24 00:14:00.060 [Thread:1] frmsearch.dgvStudent_SelectionChanged image loaded
+2025-12-24 00:14:00.060 [Thread:1] frmsearch.dgvStudent_SelectionChanged end
+2025-12-24 00:14:00.204 [Thread:1] frmsearch.btnSearch_Click start
+2025-12-24 00:14:00.207 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:14:00.209 [Thread:1] frmsearch.dgvStudent_SelectionChanged start
+2025-12-24 00:14:00.209 [Thread:1] frmsearch.btnSearch_Click end results=1
+2025-12-24 00:14:00.210 [Thread:1] frmsearch.dgvStudent_SelectionChanged image loaded
+2025-12-24 00:14:00.210 [Thread:1] frmsearch.dgvStudent_SelectionChanged end
+2025-12-24 00:14:00.211 [Thread:1] frmsearch.dgvStudent_SelectionChanged image loaded
+2025-12-24 00:14:00.211 [Thread:1] frmsearch.dgvStudent_SelectionChanged end
+2025-12-24 00:14:13.181 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-24 00:14:13.186 [Thread:1] frmfaculty.LoadDataAsync end loaded=1
+2025-12-24 00:14:36.082 [Thread:1] frmfaculty.btnAddUpdate_Click start id=2
+2025-12-24 00:14:36.088 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-24 00:14:36.090 [Thread:1] frmfaculty.LoadDataAsync end loaded=2
+2025-12-24 00:14:40.072 [Thread:1] frmfaculty.btnAddUpdate_Click end id=
+2025-12-24 00:15:33.133 [Thread:1] frmfaculty.btnAddUpdate_Click start id=3
+2025-12-24 00:15:33.138 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-24 00:15:33.141 [Thread:1] frmfaculty.LoadDataAsync end loaded=3
+2025-12-24 00:15:53.998 [Thread:1] frmfaculty.btnAddUpdate_Click end id=
+2025-12-24 00:17:26.859 [Thread:1] frmreport.Frmreport_Load start
+2025-12-24 00:17:26.871 [Thread:1] frmreport.Frmreport_Load end loaded=2
+2025-12-24 00:17:32.847 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-24 00:17:32.860 [Thread:1] frmaddstudent.Form1_Load loaded students=2
+2025-12-24 00:17:32.860 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-24 00:17:53.557 [Thread:1] frmaddstudent.btnAddUpdate_Click start id=3
+2025-12-24 00:17:53.570 [Thread:1] frmaddstudent.btnAddUpdate_Click end id=3
+2025-12-24 00:17:55.046 [Thread:1] frmreport.Frmreport_Load start
+2025-12-24 00:17:55.048 [Thread:1] frmreport.Frmreport_Load end loaded=3
+2025-12-24 00:18:26.111 [Thread:1] frmreport.BtnExport_Click start
+2025-12-24 00:19:20.352 [Thread:1] frmreport.BtnExport_Click end exported=C:\Users\thien\Downloads\students_report.csv
+2025-12-25 11:29:41.328 [Thread:1] FrmQLSV.FrmQLSV_Load start
+2025-12-25 11:29:41.438 [Thread:1] FrmQLSV.LoadStudentsAsync start page=1 pageSize=100
+2025-12-25 11:29:42.603 [Thread:1] frmaddstudent.Form1_Load start
+2025-12-25 11:29:42.854 [Thread:1] FrmQLSV.LoadStudentsAsync end loaded=3
+2025-12-25 11:29:42.854 [Thread:1] FrmQLSV.FrmQLSV_Load end
+2025-12-25 11:29:42.927 [Thread:1] frmaddstudent.Form1_Load loaded students=3
+2025-12-25 11:29:42.927 [Thread:1] frmaddstudent.Form1_Load end
+2025-12-25 11:29:43.166 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-25 11:29:43.166 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-25 11:29:43.168 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-25 11:29:43.169 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged start selected=1
+2025-12-25 11:29:43.215 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-25 11:29:43.216 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-25 11:29:43.216 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-25 11:29:43.217 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-25 11:29:43.217 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-25 11:29:43.217 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-25 11:29:43.218 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged loaded students=1
+2025-12-25 11:29:43.218 [Thread:1] frmregistermajor.cmbFaculty_SelectedIndexChanged end
+2025-12-25 11:29:44.133 [Thread:1] frmfaculty.LoadDataAsync start
+2025-12-25 11:29:44.139 [Thread:1] frmfaculty.LoadDataAsync end loaded=3
+2025-12-25 11:29:45.270 [Thread:1] frmreport.Frmreport_Load start
+2025-12-25 11:29:45.273 [Thread:1] frmreport.Frmreport_Load end loaded=3
